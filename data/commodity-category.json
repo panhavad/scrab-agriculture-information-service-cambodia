@@ -1,0 +1,922 @@
+[
+    {
+        "commodityCode": "11002",
+        "is_default": false,
+        "name": "Paddy (Mix)"
+    },
+    {
+        "commodityCode": "11004",
+        "is_default": true,
+        "name": "Paddy (IR)"
+    },
+    {
+        "commodityCode": "11005",
+        "is_default": false,
+        "name": "Paddy (Phka Kanhey)"
+    },
+    {
+        "commodityCode": "11008",
+        "is_default": false,
+        "name": "Paddy (Neang Khon)"
+    },
+    {
+        "commodityCode": "11009",
+        "is_default": false,
+        "name": "Paddy (Neang Minh)"
+    },
+    {
+        "commodityCode": "11013",
+        "is_default": false,
+        "name": "Paddy (Phkar Romdoul)"
+    },
+    {
+        "commodityCode": "11014",
+        "is_default": false,
+        "name": "Paddy(Sen pidor)"
+    },
+    {
+        "commodityCode": "11015",
+        "is_default": false,
+        "name": "Paddy(Phkar Mlis)"
+    },
+    {
+        "commodityCode": "12002",
+        "is_default": false,
+        "name": "Rice (Mix)"
+    },
+    {
+        "commodityCode": "12003",
+        "is_default": false,
+        "name": "Rice (Neang Minh)"
+    },
+    {
+        "commodityCode": "12004",
+        "is_default": false,
+        "name": "Rice (Phka Kanhey)"
+    },
+    {
+        "commodityCode": "12005",
+        "is_default": false,
+        "name": "Rice (Somaly)"
+    },
+    {
+        "commodityCode": "12007",
+        "is_default": false,
+        "name": "Rice (IR)"
+    },
+    {
+        "commodityCode": "12010",
+        "is_default": false,
+        "name": "Rice (Neang Khon)"
+    },
+    {
+        "commodityCode": "12017",
+        "is_default": false,
+        "name": "Rice(Phka Romdoul)"
+    },
+    {
+        "commodityCode": "12018",
+        "is_default": false,
+        "name": "Rice(Sen pidor)"
+    },
+    {
+        "commodityCode": "12019",
+        "is_default": false,
+        "name": "Rice(Phka Mlis)"
+    },
+    {
+        "commodityCode": "12031",
+        "is_default": false,
+        "name": "Rice(Kha6)"
+    },
+    {
+        "commodityCode": "12033",
+        "is_default": false,
+        "name": "Rice (Pka Rumdoul)"
+    },
+    {
+        "commodityCode": "12034",
+        "is_default": false,
+        "name": "Rice (Sen Pidor)"
+    },
+    {
+        "commodityCode": "13010",
+        "is_default": false,
+        "name": "Rice 100% (Thai)"
+    },
+    {
+        "commodityCode": "13011",
+        "is_default": false,
+        "name": "Rice 5% (Thai)"
+    },
+    {
+        "commodityCode": "13012",
+        "is_default": false,
+        "name": "Rice 10% (Thai)"
+    },
+    {
+        "commodityCode": "13013",
+        "is_default": false,
+        "name": "Rice 15% (Thai)"
+    },
+    {
+        "commodityCode": "13014",
+        "is_default": false,
+        "name": "Rice 25% (Thai)"
+    },
+    {
+        "commodityCode": "13015",
+        "is_default": false,
+        "name": "Rice 100% (Viet Nam)"
+    },
+    {
+        "commodityCode": "13016",
+        "is_default": false,
+        "name": "Rice 5% (Viet Nam)"
+    },
+    {
+        "commodityCode": "13017",
+        "is_default": false,
+        "name": "Rice 10% (Viet Nam)"
+    },
+    {
+        "commodityCode": "13018",
+        "is_default": false,
+        "name": "Rice 15% (Viet Nam)"
+    },
+    {
+        "commodityCode": "13019",
+        "is_default": false,
+        "name": "Rice 25% (Viet Nam)"
+    },
+    {
+        "commodityCode": "13028",
+        "is_default": false,
+        "name": "Rice 100% (Cambodia)"
+    },
+    {
+        "commodityCode": "13029",
+        "is_default": false,
+        "name": "Rice broken 5% (Cambodia)"
+    },
+    {
+        "commodityCode": "13030",
+        "is_default": false,
+        "name": "Rice broken 10% (Cambodia)"
+    },
+    {
+        "commodityCode": "13031",
+        "is_default": false,
+        "name": "Rice broken 15% (Cambodia)"
+    },
+    {
+        "commodityCode": "13032",
+        "is_default": false,
+        "name": "Rice broken 25% (Cambodia)"
+    },
+    {
+        "commodityCode": "13033",
+        "is_default": false,
+        "name": "Premium Jamine Rice 5% (Purity 90%)(Cambodia)"
+    },
+    {
+        "commodityCode": "13034",
+        "is_default": false,
+        "name": "Premium Jamine Rice 10% (Purity 90%)(Cambodia)"
+    },
+    {
+        "commodityCode": "13035",
+        "is_default": false,
+        "name": "Jamine Rice 5% (Purity 85%)(Cambodia)"
+    },
+    {
+        "commodityCode": "13036",
+        "is_default": false,
+        "name": "Jamine Rice 10% (Purity 85%)(Cambodia)"
+    },
+    {
+        "commodityCode": "13037",
+        "is_default": false,
+        "name": "Sen Kra Ob Rice 5% (Purity 90%)(Cambodia)"
+    },
+    {
+        "commodityCode": "13038",
+        "is_default": false,
+        "name": "Sen Kra Ob Rice 10% (Purity 90%)(Cambodia)"
+    },
+    {
+        "commodityCode": "13039",
+        "is_default": false,
+        "name": "Sen Kra Ob Rice 5% (Purity 85%)(Cambodia)"
+    },
+    {
+        "commodityCode": "13040",
+        "is_default": false,
+        "name": "Sen Kra Ob Rice 10% (Purity 85%)(Cambodia)"
+    },
+    {
+        "commodityCode": "14001",
+        "is_default": false,
+        "name": "Black Pepper No. 1"
+    },
+    {
+        "commodityCode": "14002",
+        "is_default": false,
+        "name": "Cashew Nut"
+    },
+    {
+        "commodityCode": "14003",
+        "is_default": false,
+        "name": "Ground Nut"
+    },
+    {
+        "commodityCode": "14005",
+        "is_default": false,
+        "name": "Mung Bean"
+    },
+    {
+        "commodityCode": "14008",
+        "is_default": false,
+        "name": "Soybean"
+    },
+    {
+        "commodityCode": "14010",
+        "is_default": false,
+        "name": "Maize (Yellow)"
+    },
+    {
+        "commodityCode": "14013",
+        "is_default": false,
+        "name": "Cashew nut processing"
+    },
+    {
+        "commodityCode": "14014",
+        "is_default": false,
+        "name": "Maize(Cob)"
+    },
+    {
+        "commodityCode": "14015",
+        "is_default": false,
+        "name": "Black Pepper No.1 Kampot"
+    },
+    {
+        "commodityCode": "20001",
+        "is_default": false,
+        "name": "Beet"
+    },
+    {
+        "commodityCode": "20002",
+        "is_default": false,
+        "name": "Bitter Gourd"
+    },
+    {
+        "commodityCode": "20003",
+        "is_default": false,
+        "name": "Cabbage"
+    },
+    {
+        "commodityCode": "20004",
+        "is_default": false,
+        "name": "Chinese Kale"
+    },
+    {
+        "commodityCode": "20005",
+        "is_default": false,
+        "name": "Cucumber"
+    },
+    {
+        "commodityCode": "20006",
+        "is_default": false,
+        "name": "Dried Chilli"
+    },
+    {
+        "commodityCode": "20007",
+        "is_default": false,
+        "name": "Gourd"
+    },
+    {
+        "commodityCode": "20008",
+        "is_default": false,
+        "name": "Lettuce"
+    },
+    {
+        "commodityCode": "20009",
+        "is_default": false,
+        "name": "Sweet Potatoe"
+    },
+    {
+        "commodityCode": "20010",
+        "is_default": false,
+        "name": "Tomatoes"
+    },
+    {
+        "commodityCode": "20011",
+        "is_default": false,
+        "name": "Long Bean"
+    },
+    {
+        "commodityCode": "20012",
+        "is_default": false,
+        "name": "bean Sprout"
+    },
+    {
+        "commodityCode": "20013",
+        "is_default": false,
+        "name": "Water Convolvulus"
+    },
+    {
+        "commodityCode": "20014",
+        "is_default": false,
+        "name": "Masta green"
+    },
+    {
+        "commodityCode": "20015",
+        "is_default": false,
+        "name": "Petsai"
+    },
+    {
+        "commodityCode": "20016",
+        "is_default": false,
+        "name": "Cauliflower"
+    },
+    {
+        "commodityCode": "20017",
+        "is_default": false,
+        "name": "Cassava (Fresh)"
+    },
+    {
+        "commodityCode": "20018",
+        "is_default": false,
+        "name": "Potato"
+    },
+    {
+        "commodityCode": "20019",
+        "is_default": false,
+        "name": "Taro"
+    },
+    {
+        "commodityCode": "20020",
+        "is_default": false,
+        "name": "Carrot"
+    },
+    {
+        "commodityCode": "20021",
+        "is_default": false,
+        "name": "Cassava(Dry)"
+    },
+    {
+        "commodityCode": "20022",
+        "is_default": false,
+        "name": "SoiySum"
+    },
+    {
+        "commodityCode": "20023",
+        "is_default": false,
+        "name": "Pumpkin"
+    },
+    {
+        "commodityCode": "20024",
+        "is_default": false,
+        "name": "Chilli (fresh)"
+    },
+    {
+        "commodityCode": "20025",
+        "is_default": false,
+        "name": "Egg plant"
+    },
+    {
+        "commodityCode": "20026",
+        "is_default": false,
+        "name": "pok Joy"
+    },
+    {
+        "commodityCode": "20027",
+        "is_default": false,
+        "name": "Thai Sim"
+    },
+    {
+        "commodityCode": "20028",
+        "is_default": false,
+        "name": "Onion Leave"
+    },
+    {
+        "commodityCode": "20029",
+        "is_default": false,
+        "name": "Green Pepper"
+    },
+    {
+        "commodityCode": "20033",
+        "is_default": false,
+        "name": "Sloek Pty"
+    },
+    {
+        "commodityCode": "31001",
+        "is_default": false,
+        "name": "Bronze Featherback"
+    },
+    {
+        "commodityCode": "31002",
+        "is_default": false,
+        "name": "Butter Catfish (No.1)"
+    },
+    {
+        "commodityCode": "31003",
+        "is_default": false,
+        "name": "Eel (No.1)"
+    },
+    {
+        "commodityCode": "31004",
+        "is_default": false,
+        "name": "Featherback (No.1)"
+    },
+    {
+        "commodityCode": "31008",
+        "is_default": false,
+        "name": "Great White Shealfish(No.1)"
+    },
+    {
+        "commodityCode": "31009",
+        "is_default": false,
+        "name": "Kamong Fish"
+    },
+    {
+        "commodityCode": "31010",
+        "is_default": false,
+        "name": "Live Fish (Chhdor)"
+    },
+    {
+        "commodityCode": "31011",
+        "is_default": false,
+        "name": "Live Fish (Deap)"
+    },
+    {
+        "commodityCode": "31012",
+        "is_default": false,
+        "name": "Live Fish (Mud)"
+    },
+    {
+        "commodityCode": "31013",
+        "is_default": false,
+        "name": "Micronema (No.1)"
+    },
+    {
+        "commodityCode": "31014",
+        "is_default": false,
+        "name": "Snake Skin Fish (No.1)"
+    },
+    {
+        "commodityCode": "31015",
+        "is_default": false,
+        "name": "Tire traek Eel (No.1)"
+    },
+    {
+        "commodityCode": "31016",
+        "is_default": false,
+        "name": "Klang Haiy Fish"
+    },
+    {
+        "commodityCode": "31017",
+        "is_default": false,
+        "name": "Cath Fish"
+    },
+    {
+        "commodityCode": "31020",
+        "is_default": false,
+        "name": "khhaik Fish"
+    },
+    {
+        "commodityCode": "31022",
+        "is_default": false,
+        "name": "Pra Fish"
+    },
+    {
+        "commodityCode": "31023",
+        "is_default": false,
+        "name": "Tilapya Fish"
+    },
+    {
+        "commodityCode": "31024",
+        "is_default": false,
+        "name": "Fish Chrova Moul"
+    },
+    {
+        "commodityCode": "31025",
+        "is_default": false,
+        "name": "Real Fish"
+    },
+    {
+        "commodityCode": "31026",
+        "is_default": false,
+        "name": "Chrokeng Fish"
+    },
+    {
+        "commodityCode": "31027",
+        "is_default": false,
+        "name": "Chhpen Fish"
+    },
+    {
+        "commodityCode": "32001",
+        "is_default": false,
+        "name": "Dry Fish (Chhdor)"
+    },
+    {
+        "commodityCode": "32002",
+        "is_default": false,
+        "name": "Dry Fish (Deap)"
+    },
+    {
+        "commodityCode": "32003",
+        "is_default": false,
+        "name": "Small Scale Croker (No.1)"
+    },
+    {
+        "commodityCode": "32004",
+        "is_default": false,
+        "name": "Smoked Kes Fish"
+    },
+    {
+        "commodityCode": "32005",
+        "is_default": false,
+        "name": "Smoked Fish (Klaing Hai)"
+    },
+    {
+        "commodityCode": "32006",
+        "is_default": false,
+        "name": "Smoked Fish (Ta oan)"
+    },
+    {
+        "commodityCode": "32007",
+        "is_default": false,
+        "name": "Smoked Fish (Real)"
+    },
+    {
+        "commodityCode": "32008",
+        "is_default": false,
+        "name": "Dried Fish (Mud)"
+    },
+    {
+        "commodityCode": "33001",
+        "is_default": false,
+        "name": "Crab (Ses)"
+    },
+    {
+        "commodityCode": "33002",
+        "is_default": false,
+        "name": "Prawn (No.1)"
+    },
+    {
+        "commodityCode": "33003",
+        "is_default": false,
+        "name": "Prawn (No.2)"
+    },
+    {
+        "commodityCode": "33004",
+        "is_default": false,
+        "name": "prawn (No.3)"
+    },
+    {
+        "commodityCode": "33005",
+        "is_default": false,
+        "name": "smoked Fish (chror vamol)"
+    },
+    {
+        "commodityCode": "33006",
+        "is_default": false,
+        "name": "Crab1"
+    },
+    {
+        "commodityCode": "40001",
+        "is_default": false,
+        "name": "Pork Meat"
+    },
+    {
+        "commodityCode": "40002",
+        "is_default": false,
+        "name": "Beef Meat"
+    },
+    {
+        "commodityCode": "40003",
+        "is_default": false,
+        "name": "Chicken Meat"
+    },
+    {
+        "commodityCode": "40004",
+        "is_default": false,
+        "name": "Duck Meat"
+    },
+    {
+        "commodityCode": "40005",
+        "is_default": false,
+        "name": "Carcass"
+    },
+    {
+        "commodityCode": "40006",
+        "is_default": false,
+        "name": "Village Chicken (Live)"
+    },
+    {
+        "commodityCode": "40007",
+        "is_default": false,
+        "name": "Live Duck(Kab)"
+    },
+    {
+        "commodityCode": "40008",
+        "is_default": false,
+        "name": "Live Pig"
+    },
+    {
+        "commodityCode": "40009",
+        "is_default": false,
+        "name": "Hen Eggs (Local)"
+    },
+    {
+        "commodityCode": "40010",
+        "is_default": false,
+        "name": "Duck Eggs"
+    },
+    {
+        "commodityCode": "40013",
+        "is_default": false,
+        "name": "Bacon"
+    },
+    {
+        "commodityCode": "40014",
+        "is_default": false,
+        "name": "Pork with fat"
+    },
+    {
+        "commodityCode": "40015",
+        "is_default": false,
+        "name": "Hen eggs(CP)"
+    },
+    {
+        "commodityCode": "40016",
+        "is_default": false,
+        "name": "Pig Blood"
+    },
+    {
+        "commodityCode": "40017",
+        "is_default": false,
+        "name": "Pig liver"
+    },
+    {
+        "commodityCode": "40018",
+        "is_default": false,
+        "name": "Hybreed Chicken"
+    },
+    {
+        "commodityCode": "40019",
+        "is_default": false,
+        "name": "Meat Chicken"
+    },
+    {
+        "commodityCode": "51001",
+        "is_default": false,
+        "name": "15.15.15 (Thai)"
+    },
+    {
+        "commodityCode": "51002",
+        "is_default": false,
+        "name": "16.20.0(Thai)"
+    },
+    {
+        "commodityCode": "51003",
+        "is_default": false,
+        "name": "18.46.0(USA)"
+    },
+    {
+        "commodityCode": "51004",
+        "is_default": false,
+        "name": "46.00.00(Thai)"
+    },
+    {
+        "commodityCode": "51005",
+        "is_default": false,
+        "name": "D.A.P(USA)"
+    },
+    {
+        "commodityCode": "51006",
+        "is_default": false,
+        "name": "Urea"
+    },
+    {
+        "commodityCode": "60001",
+        "is_default": false,
+        "name": "Banana"
+    },
+    {
+        "commodityCode": "60002",
+        "is_default": false,
+        "name": "Durian"
+    },
+    {
+        "commodityCode": "60003",
+        "is_default": false,
+        "name": "Orange"
+    },
+    {
+        "commodityCode": "60004",
+        "is_default": false,
+        "name": "Pineapple"
+    },
+    {
+        "commodityCode": "60005",
+        "is_default": false,
+        "name": "Water Melon"
+    },
+    {
+        "commodityCode": "60006",
+        "is_default": false,
+        "name": "Chico"
+    },
+    {
+        "commodityCode": "60007",
+        "is_default": false,
+        "name": "Papaya"
+    },
+    {
+        "commodityCode": "60010",
+        "is_default": false,
+        "name": "Keo Lameat mango"
+    },
+    {
+        "commodityCode": "15001",
+        "is_default": false,
+        "name": "SMR CV(Malasia)"
+    },
+    {
+        "commodityCode": "15002",
+        "is_default": false,
+        "name": "SMR L(Malasia)"
+    },
+    {
+        "commodityCode": "15003",
+        "is_default": false,
+        "name": "SMR 5(Malasia)"
+    },
+    {
+        "commodityCode": "15004",
+        "is_default": false,
+        "name": "SMR 10(Malasia)"
+    },
+    {
+        "commodityCode": "15005",
+        "is_default": false,
+        "name": "SMR 20(Malasia)"
+    },
+    {
+        "commodityCode": "15006",
+        "is_default": false,
+        "name": "SVR CV(Vietnam)"
+    },
+    {
+        "commodityCode": "15007",
+        "is_default": false,
+        "name": "SVR L(Vietnam)"
+    },
+    {
+        "commodityCode": "15008",
+        "is_default": false,
+        "name": "SVR 5(Vietnam)"
+    },
+    {
+        "commodityCode": "15009",
+        "is_default": false,
+        "name": "SVR 10(Vietnam)"
+    },
+    {
+        "commodityCode": "15010",
+        "is_default": false,
+        "name": "SMR 20 (Vietnam)"
+    },
+    {
+        "commodityCode": "15011",
+        "is_default": false,
+        "name": "Dry Rubber (Tbong Khmum)"
+    },
+    {
+        "commodityCode": "15012",
+        "is_default": false,
+        "name": "Dry Rubber (Kampong Thom)"
+    },
+    {
+        "commodityCode": "15013",
+        "is_default": false,
+        "name": "Dry Rubber (Ratanakiri)"
+    },
+    {
+        "commodityCode": "15014",
+        "is_default": false,
+        "name": "Dry Rubber (Kampong Cham)"
+    },
+    {
+        "commodityCode": "15015",
+        "is_default": false,
+        "name": "Dry Rubber (Kratie)"
+    },
+    {
+        "commodityCode": "15016",
+        "is_default": false,
+        "name": "Rubber (Kampong Cham)"
+    },
+    {
+        "commodityCode": "15017",
+        "is_default": false,
+        "name": "Rubber (Tbong Khmum)"
+    },
+    {
+        "commodityCode": "15018",
+        "is_default": false,
+        "name": "Rubber (Kampong Thom)"
+    },
+    {
+        "commodityCode": "15019",
+        "is_default": false,
+        "name": "Rubber (Ratanakiri)"
+    },
+    {
+        "commodityCode": "15020",
+        "is_default": false,
+        "name": "Rubber (Kratie)"
+    },
+    {
+        "commodityCode": "15021",
+        "is_default": false,
+        "name": "Rubber (Mondulkiri)"
+    },
+    {
+        "commodityCode": "70001",
+        "is_default": false,
+        "name": "Sugar Cane"
+    },
+    {
+        "commodityCode": "70002",
+        "is_default": false,
+        "name": "Sugar Cane (No.2)"
+    },
+    {
+        "commodityCode": "70003",
+        "is_default": false,
+        "name": "Tobacco"
+    },
+    {
+        "commodityCode": "70007",
+        "is_default": false,
+        "name": "Honey Bee"
+    },
+    {
+        "commodityCode": "70008",
+        "is_default": false,
+        "name": "Rubber"
+    },
+    {
+        "commodityCode": "80001",
+        "is_default": false,
+        "name": "Bean Oil"
+    },
+    {
+        "commodityCode": "80002",
+        "is_default": false,
+        "name": "Pork Fat (Liquid)"
+    },
+    {
+        "commodityCode": "80003",
+        "is_default": false,
+        "name": "Sugar"
+    },
+    {
+        "commodityCode": "80004",
+        "is_default": false,
+        "name": "Palm Sugar"
+    },
+    {
+        "commodityCode": "80005",
+        "is_default": false,
+        "name": "Fish Sauce"
+    },
+    {
+        "commodityCode": "80006",
+        "is_default": false,
+        "name": "Cheese Fish"
+    },
+    {
+        "commodityCode": "10001",
+        "is_default": false,
+        "name": "Rice Field"
+    },
+    {
+        "commodityCode": "10002",
+        "is_default": false,
+        "name": "Plantation"
+    },
+    {
+        "commodityCode": "10003",
+        "is_default": false,
+        "name": "Construction (Male)"
+    },
+    {
+        "commodityCode": "10004",
+        "is_default": false,
+        "name": "Construction (Female)"
+    }
+]
